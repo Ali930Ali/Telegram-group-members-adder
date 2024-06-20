@@ -5,9 +5,9 @@ from telethon.tl.types import InputPeerEmpty
 import time
 
 # Replace 'API_ID' and 'API_HASH' with your actual API ID and API Hash
-api_id = 'Your-API-ID'
-api_hash = 'You-API-hash'
-phone = 'Phone-Number'  # Include country code, e.g., +123456789
+api_id = '24685579'
+api_hash = '0c59512c1c2437c5f305cba1d47c07c5'
+phone = '994776480062'  # Include country code, e.g., +123456789
 
 client = TelegramClient(phone, api_id, api_hash)
 
